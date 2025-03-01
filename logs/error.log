@@ -1,0 +1,19 @@
+2025-03-01T11:24:28.544Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 08
+2025-03-01T11:25:00.578Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 08
+2025-03-01T11:25:16.042Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 11
+2025-03-01T11:27:05.407Z [ERROR]: [POST] /api/auth/register - res.satatus is not a function
+2025-03-01T11:27:23.324Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:27:44.808Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:28:06.595Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:28:14.371Z [ERROR]: E11000 duplicate key error collection: alt_carbon.users index: email_1 dup key: { email: "rehan@gmail.com" }
+2025-03-01T11:28:14.373Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:43:50.264Z [ERROR]: logger.infor is not a function
+2025-03-01T11:43:50.265Z [ERROR]: [POST] /api/projects - logger.infor is not a function
+2025-03-01T11:44:27.189Z [ERROR]: Can't extract geo keys: { _id: ObjectId('67c2f31afe8119efcca6952a'), name: "Coastal Mangrove Restoration", description: "Restoring mangrove forests in coastal regions.", location: { type: "Point", coordinates: [ 34.056, -118.237 ] }, boundary: { coordinates: [] }, area_hectares: 200, start_date: new Date(1706745600000), project_type: "mangrove", metrics: { carbon_removal_rate: 500, total_carbon_removed: 1200 }, status: "active", __v: 0 }  Longitude/latitude is out of bounds, lng: 34.056 lat: -118.237
+2025-03-01T11:44:27.190Z [ERROR]: [POST] /api/projects - Can't extract geo keys: { _id: ObjectId('67c2f31afe8119efcca6952a'), name: "Coastal Mangrove Restoration", description: "Restoring mangrove forests in coastal regions.", location: { type: "Point", coordinates: [ 34.056, -118.237 ] }, boundary: { coordinates: [] }, area_hectares: 200, start_date: new Date(1706745600000), project_type: "mangrove", metrics: { carbon_removal_rate: 500, total_carbon_removed: 1200 }, status: "active", __v: 0 }  Longitude/latitude is out of bounds, lng: 34.056 lat: -118.237
+2025-03-01T11:51:57.217Z [ERROR]: [GET] /api/projects - Access Denied
+2025-03-01T12:08:38.651Z [ERROR]: [GET] /api/projects/nearby - Access Denied
+2025-03-01T12:09:04.319Z [ERROR]: Cast to Number failed for value "NaN" (type number) at path "__QueryCasting__" for model "Project"
+2025-03-01T12:09:04.320Z [ERROR]: [GET] /api/projects/nearby - Invalid __QueryCasting__: NaN
+2025-03-01T12:14:57.189Z [ERROR]: [POST] /api/projects/within?coordinates=[%0A%20%20%20%20%20%20[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]%0A%20%20%20%20] - Expected ',' or '}' after property value in JSON at position 147
+2025-03-01T12:15:17.140Z [ERROR]: [POST] /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] - Expected ',' or '}' after property value in JSON at position 147

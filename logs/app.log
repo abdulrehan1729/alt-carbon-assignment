@@ -1,0 +1,118 @@
+2025-03-01T11:24:03.057Z [INFO]: GET /api/auth/register 404 156 - 0.826 ms
+2025-03-01T11:24:08.943Z [INFO]: Registering new user
+2025-03-01T11:24:28.543Z [INFO]: Registering new user
+2025-03-01T11:24:28.544Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 08
+2025-03-01T11:24:28.545Z [INFO]: POST /api/auth/register 500 71 - 4.316 ms
+2025-03-01T11:25:00.577Z [INFO]: Registering new user
+2025-03-01T11:25:00.578Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 08
+2025-03-01T11:25:00.579Z [INFO]: POST /api/auth/register 500 71 - 4.970 ms
+2025-03-01T11:25:16.041Z [INFO]: Registering new user
+2025-03-01T11:25:16.042Z [ERROR]: [POST] /api/auth/register - Invalid salt version: 11
+2025-03-01T11:25:16.044Z [INFO]: POST /api/auth/register 500 71 - 6.786 ms
+2025-03-01T11:27:03.513Z [INFO]: Registering new user
+2025-03-01T11:27:05.407Z [ERROR]: [POST] /api/auth/register - res.satatus is not a function
+2025-03-01T11:27:05.412Z [INFO]: POST /api/auth/register 500 76 - 1900.306 ms
+2025-03-01T11:27:21.804Z [INFO]: Registering new user
+2025-03-01T11:27:23.324Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:27:23.328Z [INFO]: POST /api/auth/register 400 66 - 1526.018 ms
+2025-03-01T11:27:43.179Z [INFO]: Registering new user
+2025-03-01T11:27:44.808Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:27:44.814Z [INFO]: POST /api/auth/register 400 66 - 1634.935 ms
+2025-03-01T11:28:04.894Z [INFO]: Registering new user
+2025-03-01T11:28:06.595Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:28:06.596Z [INFO]: POST /api/auth/register 400 66 - 1704.613 ms
+2025-03-01T11:28:14.002Z [INFO]: Registering new user
+2025-03-01T11:28:14.371Z [ERROR]: E11000 duplicate key error collection: alt_carbon.users index: email_1 dup key: { email: "rehan@gmail.com" }
+2025-03-01T11:28:14.373Z [ERROR]: [POST] /api/auth/register - Duplicate key error
+2025-03-01T11:28:14.377Z [INFO]: POST /api/auth/register 400 66 - 376.109 ms
+2025-03-01T11:28:23.814Z [INFO]: Registering new user
+2025-03-01T11:28:24.172Z [INFO]: POST /api/auth/register 201 29 - 360.221 ms
+2025-03-01T11:29:42.218Z [INFO]: POST /api/auth/login 200 225 - 343.148 ms
+2025-03-01T11:32:05.797Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:32:05.801Z [INFO]: POST /api/projects 400 79 - 4.366 ms
+2025-03-01T11:34:39.004Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:34:39.013Z [INFO]: POST /api/projects 400 39 - 7.985 ms
+2025-03-01T11:36:02.514Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:37:44.818Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:38:18.190Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:43:15.336Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:43:50.255Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:43:50.264Z [ERROR]: logger.infor is not a function
+2025-03-01T11:43:50.265Z [ERROR]: [POST] /api/projects - logger.infor is not a function
+2025-03-01T11:43:50.267Z [INFO]: POST /api/projects 500 77 - 11.675 ms
+2025-03-01T11:44:26.485Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:44:27.189Z [ERROR]: Can't extract geo keys: { _id: ObjectId('67c2f31afe8119efcca6952a'), name: "Coastal Mangrove Restoration", description: "Restoring mangrove forests in coastal regions.", location: { type: "Point", coordinates: [ 34.056, -118.237 ] }, boundary: { coordinates: [] }, area_hectares: 200, start_date: new Date(1706745600000), project_type: "mangrove", metrics: { carbon_removal_rate: 500, total_carbon_removed: 1200 }, status: "active", __v: 0 }  Longitude/latitude is out of bounds, lng: 34.056 lat: -118.237
+2025-03-01T11:44:27.190Z [ERROR]: [POST] /api/projects - Can't extract geo keys: { _id: ObjectId('67c2f31afe8119efcca6952a'), name: "Coastal Mangrove Restoration", description: "Restoring mangrove forests in coastal regions.", location: { type: "Point", coordinates: [ 34.056, -118.237 ] }, boundary: { coordinates: [] }, area_hectares: 200, start_date: new Date(1706745600000), project_type: "mangrove", metrics: { carbon_removal_rate: 500, total_carbon_removed: 1200 }, status: "active", __v: 0 }  Longitude/latitude is out of bounds, lng: 34.056 lat: -118.237
+2025-03-01T11:44:27.194Z [INFO]: POST /api/projects 500 562 - 708.276 ms
+2025-03-01T11:46:13.012Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:46:13.403Z [INFO]: Project created: Coastal Mangrove Restoration
+2025-03-01T11:46:13.406Z [INFO]: POST /api/projects 201 440 - 393.081 ms
+2025-03-01T11:51:57.215Z [INFO]: undefined
+2025-03-01T11:51:57.217Z [ERROR]: [GET] /api/projects - Access Denied
+2025-03-01T11:51:57.217Z [INFO]: GET /api/projects 401 60 - 2.822 ms
+2025-03-01T11:52:18.147Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:52:18.413Z [INFO]: Projects fetched
+2025-03-01T11:52:18.787Z [INFO]: GET /api/projects 200 3064 - 640.600 ms
+2025-03-01T11:53:41.691Z [INFO]: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YzJlZjU3Nzc4MmVkMTk1NWIwYTEwZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDgyODU4MiwiZXhwIjoxNzQwOTE0OTgyfQ._z_7-_p-AYjevMvWNTzyPdA4ozA7Q3SNZyHvT37BZT0
+2025-03-01T11:53:41.693Z [INFO]: GET /api/projects/near-by?lng=-60.02&lat=-3.46&radius=10 400 105 - 2.370 ms
+2025-03-01T11:55:57.748Z [INFO]: GET /api/projects/near-by?lng=-60.02&lat=-3.46&radius=10 400 105 - 4.730 ms
+2025-03-01T11:58:21.284Z [INFO]: GET /api/projects/near-by?lng=-60.02&lat=-3.46&radius=10 400 105 - 4.175 ms
+2025-03-01T11:58:23.498Z [INFO]: GET /api/projects/near-by?lng=-60.02&lat=-3.46&radius=10 400 105 - 2.247 ms
+2025-03-01T11:58:28.571Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 2.511 ms
+2025-03-01T11:59:11.704Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 2.162 ms
+2025-03-01T11:59:12.536Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 3.182 ms
+2025-03-01T12:00:18.889Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 4.617 ms
+2025-03-01T12:00:26.651Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 4.307 ms
+2025-03-01T12:01:01.952Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 9.207 ms
+2025-03-01T12:02:33.690Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 5.512 ms
+2025-03-01T12:02:38.585Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 1.244 ms
+2025-03-01T12:03:29.002Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 5.445 ms
+2025-03-01T12:03:37.249Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 400 105 - 5.325 ms
+2025-03-01T12:03:50.147Z [INFO]: GET /api/projects/nearby 400 105 - 5.589 ms
+2025-03-01T12:04:03.313Z [INFO]: Projects fetched
+2025-03-01T12:04:03.625Z [INFO]: GET /api/projects 200 3064 - 708.806 ms
+2025-03-01T12:04:32.032Z [INFO]: GET /api/projects/nearby? 400 105 - 3.613 ms
+2025-03-01T12:05:05.536Z [INFO]: GET /api/projects/nearby? 400 105 - 5.157 ms
+2025-03-01T12:06:27.558Z [INFO]: GET /api/projects/nearby 400 105 - 5.119 ms
+2025-03-01T12:06:28.480Z [INFO]: GET /api/projects/nearby 400 105 - 1.366 ms
+2025-03-01T12:06:28.901Z [INFO]: GET /api/projects/nearby 400 105 - 2.498 ms
+2025-03-01T12:08:21.603Z [INFO]: GET /api/projects/nearby 400 105 - 5.044 ms
+2025-03-01T12:08:22.319Z [INFO]: GET /api/projects/nearby 400 105 - 4.009 ms
+2025-03-01T12:08:38.651Z [ERROR]: [GET] /api/projects/nearby - Access Denied
+2025-03-01T12:08:38.653Z [INFO]: GET /api/projects/nearby 401 60 - 2.541 ms
+2025-03-01T12:08:51.664Z [INFO]: GET /api/projects/nearby 400 105 - 2.291 ms
+2025-03-01T12:09:04.319Z [ERROR]: Cast to Number failed for value "NaN" (type number) at path "__QueryCasting__" for model "Project"
+2025-03-01T12:09:04.320Z [ERROR]: [GET] /api/projects/nearby - Invalid __QueryCasting__: NaN
+2025-03-01T12:09:04.322Z [INFO]: GET /api/projects/nearby 400 76 - 14.571 ms
+2025-03-01T12:11:03.843Z [INFO]: Projects retrieved within radius: 10 km
+2025-03-01T12:11:03.850Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=10 200 65 - 257.982 ms
+2025-03-01T12:11:13.460Z [INFO]: Projects retrieved within radius: 20 km
+2025-03-01T12:11:13.462Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=20 200 65 - 297.355 ms
+2025-03-01T12:11:18.852Z [INFO]: Projects retrieved within radius: 100 km
+2025-03-01T12:11:18.853Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=100 200 66 - 254.797 ms
+2025-03-01T12:11:22.851Z [INFO]: Projects retrieved within radius: 1000 km
+2025-03-01T12:11:22.853Z [INFO]: GET /api/projects/nearby?lng=-60.02&lat=-3.46&radius=1000 200 721 - 258.770 ms
+2025-03-01T12:13:27.261Z [INFO]: POST /api/projects/within 400 42 - 5.280 ms
+2025-03-01T12:14:10.710Z [INFO]: POST /api/projects/within 400 42 - 1.706 ms
+2025-03-01T12:14:11.867Z [INFO]: POST /api/projects/within 400 42 - 1.206 ms
+2025-03-01T12:14:57.189Z [ERROR]: [POST] /api/projects/within?coordinates=[%0A%20%20%20%20%20%20[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]%0A%20%20%20%20] - Expected ',' or '}' after property value in JSON at position 147
+2025-03-01T12:15:17.140Z [ERROR]: [POST] /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] - Expected ',' or '}' after property value in JSON at position 147
+2025-03-01T12:15:24.344Z [INFO]: POST /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] 400 47 - 2.145 ms
+2025-03-01T12:17:02.775Z [INFO]: POST /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] 400 47 - 2.705 ms
+2025-03-01T12:17:03.728Z [INFO]: POST /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] 400 47 - 2.874 ms
+2025-03-01T12:17:45.426Z [INFO]: POST /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] 400 47 - 4.086 ms
+2025-03-01T12:17:46.157Z [INFO]: POST /api/projects/within?coordinates=[[[-60.02,%20-3.48],%20[-60.05,%20-3.47],%20[-60.01,%20-3.45],%20[-60.02,%20-3.48]]] 400 47 - 2.249 ms
+2025-03-01T12:19:40.802Z [INFO]: POST /api/projects/within?coordinates=[%0A%20%20%20%20%20%20%20%20%20%20%20%20%20[%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20[-118.237,%2034.056],%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20[-118.240,%2034.060],%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20[-118.250,%2034.065],%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20[-118.237,%2034.056]%0A%20%20%20%20%20%20%20%20%20%20%20%20%20]%0A%20%20%20%20%20%20%20%20%20%20%20] 400 47 - 2.443 ms
+2025-03-01T12:22:08.252Z [INFO]: Projects retrieved within polygon coordinates: -118.237,34.056,-118.24,34.06,-118.25,34.065,-118.237,34.056 
+2025-03-01T12:22:08.259Z [INFO]: POST /api/projects/within 200 130 - 317.757 ms
+2025-03-01T12:22:49.264Z [INFO]: GET /api/projects/within 400 105 - 4.331 ms
+2025-03-01T12:28:59.143Z [INFO]: GET /api/projects/within 400 105 - 4.460 ms
+2025-03-01T12:28:59.835Z [INFO]: GET /api/projects/within 400 105 - 3.237 ms
+2025-03-01T12:29:10.104Z [INFO]: GET /api/projects/within 400 105 - 2.866 ms
+2025-03-01T12:29:24.393Z [INFO]: GET /api/projects/within 404 158 - 1.443 ms
+2025-03-01T12:30:03.246Z [INFO]: Projects Regional Impact nalysis
+2025-03-01T12:30:03.251Z [INFO]: GET /api/projects/impact 200 143 - 245.032 ms
+2025-03-01T12:31:01.216Z [INFO]: GET /api/projects/within 400 105 - 4.039 ms
+2025-03-01T12:31:24.603Z [INFO]: Carbon Impact Forecast
+2025-03-01T12:31:24.607Z [INFO]: GET /api/projects/analytics/forecast 200 115 - 264.188 ms
+2025-03-01T12:31:50.592Z [INFO]: GET /api/projects/analytics/report 200 885 - 380.334 ms
