@@ -104,8 +104,8 @@ The server will start on `http://localhost:5000`
 
 | Method | Endpoint                  | Description             |
 | ------ | ------------------------- | ----------------------- |
-| GET    | `/api/analytics/forecast` | Forecast carbon impact  |
-| POST   | `/api/analytics/report`   | Generate custom reports |
+| GET    | `/api/projects/analytics/forecast` | Forecast carbon impact  |
+| POST   | `/api/projects/analytics/report`   | Generate custom reports |
 
 ---
 
